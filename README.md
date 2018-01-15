@@ -1,4 +1,4 @@
-# Akwati
+# akwaati (boite à outils)
 A documents with links to various development topics I've been learning.
 
 # Web development
