@@ -7,6 +7,14 @@ A documents with links to various development topics I've been learning.
 Understanding layouts for beginners
 https://www.androidhive.info/2011/07/android-layouts-linear-layout-relative-layout-and-table-layout/
 
+Grid layout and CardView tutorial
+
+https://www.youtube.com/watch?v=VUPM387qyrw
+
+Recycler View Dynamic Load Data
+
+https://youtu.be/PamhELVWYY0
+
 Coding tutorials (Make a complete ordder food app)
 
 https://www.youtube.com/watch?v=Ad41Bh704ms&list=PLaoF-xhnnrRW4lXuIhNLhgVuYkIlF852V
