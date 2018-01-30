@@ -50,6 +50,11 @@ Coding tutorials (Make a complete ordder food app)
 
 https://www.youtube.com/watch?v=Ad41Bh704ms&list=PLaoF-xhnnrRW4lXuIhNLhgVuYkIlF852V
 
+List of amazing open source apps (MindWork blog post)
+
+https://blog.mindorks.com/android-amazing-open-source-apps-e44f520593cc
+
+
 # Java EE
 
 Developpez des sites web avec Java EE
