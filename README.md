@@ -1,12 +1,5 @@
 # Akwaati (boite à outils)
-A documents with links to various programming resources.
-
-# Web development
-
-Introducing Material Design Lite
-
-https://medium.com/google-developers/introducing-material-design-lite-3ce67098c031
-
+  A documents with links to various Android developement resources.
 
 # Android
 
@@ -43,15 +36,3 @@ https://medium.com/google-developers/introducing-material-design-lite-3ce67098c0
 * Enter animation using RecyclerView and LayoutAnimation with Lists
 
   - https://proandroiddev.com/enter-animation-using-recyclerview-and-layoutanimation-part-1-list-75a874a5d213
-
-
-# Java EE
-
-Developpez des sites web avec Java EE
-
-https://www.youtube.com/playlist?list=PLepmdz3mDsCpOcLtmn3r8UKfsjGSeDmma
-
-50 minutes to develop a full Java EE application with Forge
-
-https://youtu.be/47730LFtemY
-
