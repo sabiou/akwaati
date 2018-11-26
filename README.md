@@ -1,7 +1,7 @@
 # Akwaati (boite à outils)
   A documents with links to various Android developement resources.
 
-# Android
+# Articles & youtube tutos
 
 * Developing for Android
   - https://medium.com/google-developers/developing-for-android-introduction-5345b451567c
@@ -36,3 +36,6 @@
 * Enter animation using RecyclerView and LayoutAnimation with Lists
 
   - https://proandroiddev.com/enter-animation-using-recyclerview-and-layoutanimation-part-1-list-75a874a5d213
+  
+  * Getting with ExoPlayer
+    - https://www.raywenderlich.com/5573-media-playback-on-android-with-exoplayer-getting-started
