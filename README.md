@@ -32,26 +32,17 @@ https://medium.com/google-developers/introducing-material-design-lite-3ce67098c0
 
   - https://www.youtube.com/playlist?list=PLWz5rJ2EKKc-lJo_RGGXL2Psr8vVCTWjM
 
-Android Performance Patterns by Google (Youtube playlist)
+* Android Performance Patterns by Google (Youtube playlist)
 
-https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE
+  - https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE
 
-Understanding of AsyncTask in Android (medium article)
+* Understanding of AsyncTask in Android (medium article)
 
-https://medium.com/@ankit.sinhal/understanding-of-asynctask-in-android-8fe61a96a238
+  - https://medium.com/@ankit.sinhal/understanding-of-asynctask-in-android-8fe61a96a238
 
-Enter animation using RecyclerView and LayoutAnimation with Lists
+* Enter animation using RecyclerView and LayoutAnimation with Lists
 
-https://proandroiddev.com/enter-animation-using-recyclerview-and-layoutanimation-part-1-list-75a874a5d213
-
-
-Coding tutorials (Make a complete ordder food app)
-
-https://www.youtube.com/watch?v=Ad41Bh704ms&list=PLaoF-xhnnrRW4lXuIhNLhgVuYkIlF852V
-
-List of amazing open source apps (MindWork blog post)
-
-https://blog.mindorks.com/android-amazing-open-source-apps-e44f520593cc
+  - https://proandroiddev.com/enter-animation-using-recyclerview-and-layoutanimation-part-1-list-75a874a5d213
 
 
 # Java EE
