@@ -13,24 +13,24 @@ https://medium.com/google-developers/introducing-material-design-lite-3ce67098c0
 * Developing for Android
   - https://medium.com/google-developers/developing-for-android-introduction-5345b451567c
 
-Understanding layouts for beginners
-https://www.androidhive.info/2011/07/android-layouts-linear-layout-relative-layout-and-table-layout/
+* Understanding layouts for beginners
+  - https://www.androidhive.info/2011/07/android-layouts-linear-layout-relative-layout-and-table-layout/
 
-The Android Lifecycle cheat sheet
+* The Android Lifecycle cheat sheet from Google team
 
-https://medium.com/google-developers/the-android-lifecycle-cheat-sheet-part-i-single-activities-e49fd3d202ab
+  - https://medium.com/google-developers/the-android-lifecycle-cheat-sheet-part-i-single-activities-e49fd3d202ab
 
-Grid layout and CardView tutorial
+* Grid layout and CardView youtube tutorial
 
-https://www.youtube.com/watch?v=VUPM387qyrw
+  - https://www.youtube.com/watch?v=VUPM387qyrw
 
-Recycler View Dynamic Load Data
+* Recycler View Dynamic data loading youtube tutorial
 
-https://youtu.be/PamhELVWYY0
+  - https://youtu.be/PamhELVWYY0
 
-Android Development Patterns by Google (Youtube playlist)
+* Android Development Patterns by Google (Youtube playlist)
 
-https://www.youtube.com/playlist?list=PLWz5rJ2EKKc-lJo_RGGXL2Psr8vVCTWjM
+  - https://www.youtube.com/playlist?list=PLWz5rJ2EKKc-lJo_RGGXL2Psr8vVCTWjM
 
 Android Performance Patterns by Google (Youtube playlist)
 
