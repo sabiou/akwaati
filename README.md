@@ -40,5 +40,8 @@
 * Getting started with ExoPlayer
   - https://www.raywenderlich.com/5573-media-playback-on-android-with-exoplayer-getting-started
   
-* Getting started with Retrofit
+* Retrofit series from [Future studio](https://futurestud.io/).
     - https://futurestud.io/tutorials/retrofit-getting-started-and-android-client
+    
+* Glide series from [Future studio](https://futurestud.io/).
+    - https://futurestud.io/tutorials/glide-getting-started
