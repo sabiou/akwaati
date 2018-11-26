@@ -11,7 +11,7 @@ https://medium.com/google-developers/introducing-material-design-lite-3ce67098c0
 # Android
 
 * Developing for Android
-- https://medium.com/google-developers/developing-for-android-introduction-5345b451567c
+  - https://medium.com/google-developers/developing-for-android-introduction-5345b451567c
 
 Understanding layouts for beginners
 https://www.androidhive.info/2011/07/android-layouts-linear-layout-relative-layout-and-table-layout/
