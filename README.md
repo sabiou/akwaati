@@ -1,7 +1,7 @@
 # Akwaati (boite à outils)
   A documents with links to various Android developement resources.
 
-# Articles & youtube tutos
+# Articles & youtube tutorials
 
 * Developing for Android
   - https://medium.com/google-developers/developing-for-android-introduction-5345b451567c
