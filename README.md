@@ -37,5 +37,5 @@
 
   - https://proandroiddev.com/enter-animation-using-recyclerview-and-layoutanimation-part-1-list-75a874a5d213
   
-  * Getting with ExoPlayer
-    - https://www.raywenderlich.com/5573-media-playback-on-android-with-exoplayer-getting-started
+* Getting with ExoPlayer
+  - https://www.raywenderlich.com/5573-media-playback-on-android-with-exoplayer-getting-started
